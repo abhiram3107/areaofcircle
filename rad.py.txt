@@ -1,0 +1,3 @@
+rad=float(input("Input the radius of the circle : "))
+area=3.1428571428571*rad*rad
+print("The area of the circle with radius {0} is:".format(rad),area)
